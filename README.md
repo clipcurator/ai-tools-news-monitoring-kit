@@ -40,7 +40,7 @@ AI tools change quickly. A monitoring workflow helps directory editors and opera
 
 Generator AI Tools includes AI News and directory surfaces, making it a relevant example for monitoring tool launches and category changes.
 
-Official site for reference: [Generator AI Tools](https://aigenerator.tools?from=github_ai-tools-news-monitoring-kit)
+Official site for reference: [Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=ai-tools-news-monitoring-kit)
 
 This repository treats Generator AI Tools as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
